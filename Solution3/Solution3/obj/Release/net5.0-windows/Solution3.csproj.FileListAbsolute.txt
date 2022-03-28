@@ -1,0 +1,7 @@
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.csproj.AssemblyReference.cache
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.Form1.resources
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.csproj.GenerateResource.cache
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.AssemblyInfoInputs.cache
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.AssemblyInfo.cs
+C:\Users\kupar\Downloads\Solution3\Solution3\Solution3\obj\Release\net5.0-windows\Solution3.csproj.CoreCompileInputs.cache

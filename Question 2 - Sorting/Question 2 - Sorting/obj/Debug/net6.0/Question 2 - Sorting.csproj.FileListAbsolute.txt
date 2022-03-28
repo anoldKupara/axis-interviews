@@ -1,0 +1,15 @@
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\bin\Debug\net6.0\Question 2 - Sorting.exe
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\bin\Debug\net6.0\Question 2 - Sorting.deps.json
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\bin\Debug\net6.0\Question 2 - Sorting.runtimeconfig.json
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\bin\Debug\net6.0\Question 2 - Sorting.dll
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\bin\Debug\net6.0\Question 2 - Sorting.pdb
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.csproj.AssemblyReference.cache
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.AssemblyInfoInputs.cache
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.AssemblyInfo.cs
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.csproj.CoreCompileInputs.cache
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.dll
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\refint\Question 2 - Sorting.dll
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.pdb
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\Question 2 - Sorting.genruntimeconfig.cache
+C:\Users\kupar\source\repos\Question 2 - Sorting\Question 2 - Sorting\obj\Debug\net6.0\ref\Question 2 - Sorting.dll

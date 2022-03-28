@@ -1,0 +1,17 @@
+C:\Users\Developer\source\repos\Solution3\Solution3\bin\Debug\net6.0-windows\Solution3.exe
+C:\Users\Developer\source\repos\Solution3\Solution3\bin\Debug\net6.0-windows\Solution3.deps.json
+C:\Users\Developer\source\repos\Solution3\Solution3\bin\Debug\net6.0-windows\Solution3.runtimeconfig.json
+C:\Users\Developer\source\repos\Solution3\Solution3\bin\Debug\net6.0-windows\Solution3.dll
+C:\Users\Developer\source\repos\Solution3\Solution3\bin\Debug\net6.0-windows\Solution3.pdb
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.Form1.resources
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.csproj.GenerateResource.cache
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.AssemblyInfo.cs
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.dll
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\refint\Solution3.dll
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.pdb
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\Solution3.genruntimeconfig.cache
+C:\Users\Developer\source\repos\Solution3\Solution3\obj\Debug\net6.0-windows\ref\Solution3.dll
