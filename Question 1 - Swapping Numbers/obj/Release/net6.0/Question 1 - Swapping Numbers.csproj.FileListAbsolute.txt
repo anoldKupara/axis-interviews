@@ -1,0 +1,15 @@
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\bin\Release\net6.0\Question 1 - Swapping Numbers.exe
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\bin\Release\net6.0\Question 1 - Swapping Numbers.deps.json
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\bin\Release\net6.0\Question 1 - Swapping Numbers.runtimeconfig.json
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\bin\Release\net6.0\Question 1 - Swapping Numbers.dll
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\bin\Release\net6.0\Question 1 - Swapping Numbers.pdb
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.csproj.AssemblyReference.cache
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.AssemblyInfoInputs.cache
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.AssemblyInfo.cs
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.csproj.CoreCompileInputs.cache
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.dll
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\refint\Question 1 - Swapping Numbers.dll
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.pdb
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\Question 1 - Swapping Numbers.genruntimeconfig.cache
+C:\Users\kupar\source\repos\Question 1 - Swapping Numbers\Question 1 - Swapping Numbers\obj\Release\net6.0\ref\Question 1 - Swapping Numbers.dll
